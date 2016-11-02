@@ -1,0 +1,9 @@
+[{
+	"id": "hcp://marketingsitetemplate/marketingsite/site.json",
+	"name": "Marketing Site",
+	"description": "",
+	"thumbnail": "marketingsite/thumbnail.jpg",
+	"path": "marketingsite",
+	"_entityType": "PORTAL_SITE_V2_TEMPLATE_SITE",
+	"category": "Samples"
+}]

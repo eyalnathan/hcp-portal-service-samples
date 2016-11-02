@@ -1,0 +1,37 @@
+{
+	"_version": "1.0",
+	"identification": {
+		"id": "menu.json",
+		"entityType": "menu",
+		"i18n": "i18n/menu.properties"
+	},
+	"payload": {
+		"locked": "false",
+		"tags": [],
+		"entities": [
+		    {
+				"title": "{{marketing}}",
+				"target": {
+					"semanticObject": "page2",
+					"action": "Display"
+				},
+				"entityType": "PAGE"
+			},
+			{
+				"title": "{{news}}",
+				"target": {
+					"semanticObject": "page1",
+					"action": "Display"
+				},
+				"entityType": "PAGE"
+			},
+			{
+				"title": "{{training}}",
+				"target": {
+					"semanticObject": "page3",
+					"action": "Display"
+				},
+				"entityType": "PAGE"
+			}]
+	}
+}
